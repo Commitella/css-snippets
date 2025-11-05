@@ -1,5 +1,5 @@
 body {
-    background: #0f172a;
+    background: #5c1840;
     font-family: "Poppins", sans-serif;
     color: #fff;
     display: flex;
@@ -18,17 +18,17 @@ section {
 }
 section h1 {
     font-size: 2.4rem;
-    color: #5eead4;
+    color: #afb63b;
     margin-bottom: 10px;
     letter-spacing: 1px;
 }
 section p {
-    color: #cbd5e1;
+    color: #b95390
     margin-bottom: 40px;
     font-size: 1rem;
 }
 .blog-section {
-    background: #1e293b;
+    background: #e6b9bc;
     padding: 60px 20px;
     border-radius: 8px;
     width: 100%;
@@ -81,7 +81,7 @@ section p {
 }
 .blog-content a {
     text-decoration: none;
-    color: #14b8a6;
+    color: #afb63b;
     font-weight: 600;
 }
 .blog-content a:hover {
@@ -90,7 +90,7 @@ section p {
 
 /* BUTTON BELOW CARDS */
 .learn-btn {
-    background: linear-gradient(90deg, #0d9488, #14b8a6);
+    background: linear-gradient(90deg, #afb63b, #877037);
     color: white;
     border: 1px solid white;
     padding: 14px 40px;
