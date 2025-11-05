@@ -23,12 +23,12 @@ section h1 {
     letter-spacing: 1px;
 }
 section p {
-    color: #b95390
+    color: #e6b9bc
     margin-bottom: 40px;
     font-size: 1rem;
 }
 .blog-section {
-    background: #e6b9bc;
+    background: #b95390;
     padding: 60px 20px;
     border-radius: 8px;
     width: 100%;
