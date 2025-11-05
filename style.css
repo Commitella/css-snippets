@@ -47,8 +47,9 @@ section p {
 }
 .blog-card {
     background: #fff;
-    color: #1e293b;
-    border-radius: 2px;
+    color: #e6b9bc;
+    border-radius: 10px;
+    border: 1px solid white;
     overflow: hidden;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
     transition: 0.3s ease;
